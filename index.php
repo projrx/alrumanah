@@ -97,7 +97,7 @@
                                         <a href="#"><i class="icon-link captionicons"></i></a>
 									</div>
 								</div>
-								<h1><a href="#">Al Rumanah Feeds</a></h1>
+								<h1><a href="#">Packaging Boxes</a></h1>
 								<p>
 									 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 								</p>
@@ -106,15 +106,15 @@
 							<!--featured-projects 2-->
 							<li>
 							<div class="boxcontainer">
-								<img src="img/group/3.jpg" width="500" height="332">
+								<img src="img/group/2.jpg" width="500" height="332">
 								<div class="roll">
 									<div class="wrapcaption">
 										
-										<a data-gal="prettyPhoto[gallery1]" href="img/group/3.jpg"><i class="icon-zoom-in captionicons"></i></a>
+										<a data-gal="prettyPhoto[gallery1]" href="img/group/2.jpg"><i class="icon-zoom-in captionicons"></i></a>
                                         <a href="#"><i class="icon-link captionicons"></i></a>
 									</div>
 								</div>
-								<h1><a href="#">Al Rumanah Cartoons</a></h1>
+								<h1><a href="#">Perfume Boxes</a></h1>
 								<p>
 									 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 								</p>
@@ -123,11 +123,11 @@
 							<!--featured-projects 3-->
 							<li>
 							<div class="boxcontainer">
-								<img src="img/group/2.jpg" width="500" height="332">
+								<img src="img/group/3.jpg" width="500" height="332">
 								<div class="roll">
 									<div class="wrapcaption">
 										
-										<a data-gal="prettyPhoto[gallery1]" href="img/group/2.jpg"><i class="icon-zoom-in captionicons"></i></a>
+										<a data-gal="prettyPhoto[gallery1]" href="img/group/3.jpg"><i class="icon-zoom-in captionicons"></i></a>
                                         <a href="#"><i class="icon-link captionicons"></i></a>
 									</div>
 								</div>
